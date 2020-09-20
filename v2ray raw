@@ -18,3 +18,15 @@ Path: /54cf8/
 
 4.cn2gia
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ3dWxhYmluZ19jbjIuZ29vZ2xlMjAyMC5wcC51YSIsCiAgImFkZCI6ICJjbjIuZ29vZ2xlMjAyMC5wcC51YSIsCiAgInBvcnQiOiAiNDQzIiwKICAiaWQiOiAiZTVlZDZmYTctYjNiYi00MTY2LTk2NmMtNjI3NzcyNzk4MDE1IiwKICAiYWlkIjogIjE2IiwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICJjbjIuZ29vZ2xlMjAyMC5wcC51YSIsCiAgInBhdGgiOiAiL2RiN2E5ZWFiNTNmY2YzLyIsCiAgInRscyI6ICJ0bHMiCn0K
+
+Tip:
+流量转发(iplc):
+1.
+Domain: mm.cdn2020.pp.ua
+IP:125.90.93.103 --> lax.google2020.pp.ua
+Port:10020
+
+2.
+Domain: mm.cdn2020.pp.ua
+IP:125.90.93.103 --> 1.1.1.1(universal)
+Port:10021
