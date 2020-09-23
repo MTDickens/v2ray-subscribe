@@ -1,12 +1,12 @@
-1. ibm yes
+1. ibm yes(deprecated)
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImlibXllcyIsDQogICJhZGQiOiAiYmQxLmNkbjIwMjAucHAudWEiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiOTAxYzNiMmUtMmM5Mi00YTUyLWI0OGMtMmI3Yzg2ZGUyMjFhIiwNCiAgImFpZCI6ICI0IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJpYm15ZXMubXRkaWNrZW5zLndvcmtlcnMuZGV2IiwNCiAgInBhdGgiOiAiL3I2VVppeU5KaGl1V2lXaE0iLA0KICAidGxzIjogInRscyINCn0=
 
-2. hkg
+2. hkg(deprecated)
 Protocol: VLESS
 UUID: f35ebcb4-13e8-4a53-94db-4d4023f62287
 Path: /cc08d30ccd/
 
-2. ovb
+2. ovb(deprecated)
 Protocol: VLESS
 UUID: 2cc672cf-b2f7-44fa-8831-474719f84678
 Path: /d9fd6a9607/
@@ -16,7 +16,7 @@ Protocol: VLESS
 UUID: b7b777d6-49a8-48d0-a545-8e98d68481f9
 Path: /54cf8/
 
-4.cn2gia
+4.cn2gia(deprecated)
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ3dWxhYmluZ19jbjIuZ29vZ2xlMjAyMC5wcC51YSIsCiAgImFkZCI6ICJjbjIuZ29vZ2xlMjAyMC5wcC51YSIsCiAgInBvcnQiOiAiNDQzIiwKICAiaWQiOiAiZTVlZDZmYTctYjNiYi00MTY2LTk2NmMtNjI3NzcyNzk4MDE1IiwKICAiYWlkIjogIjE2IiwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICJjbjIuZ29vZ2xlMjAyMC5wcC51YSIsCiAgInBhdGgiOiAiL2RiN2E5ZWFiNTNmY2YzLyIsCiAgInRscyI6ICJ0bHMiCn0K
 
 Tip:
@@ -28,5 +28,10 @@ Port:10020
 
 2.
 Domain: mm.cdn2020.pp.ua
-IP:125.90.93.103 --> 1.1.1.1(universal)
+IP:125.90.93.103 --> 1.1.1.89(universal)
 Port:10021
+
+2.
+Domain: zj.cdn2020.pp.ua
+IP:121.10.139.200 --> 1.1.1.111(universal)
+Port:10081
