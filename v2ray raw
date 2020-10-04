@@ -1,10 +1,10 @@
 1. ibm yes(deprecated)
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIklCTV9DbG91ZCIsDQogICJhZGQiOiAiemouY2RuMjAyMC5wcC51YSIsDQogICJwb3J0IjogIjEwMDgxIiwNCiAgImlkIjogImRhNDE5MWFlLTE3ZGUtNDI1ZS1iMzAwLTE4NDcyY2Q3MDQ5MiIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInRyaWFscmF5Lm10ZGlja2Vucy53b3JrZXJzLmRldiIsDQogICJwYXRoIjogIi9kYTQxOTFhZSIsDQogICJ0bHMiOiAidGxzIg0KfQ==
 
-2. hkg(deprecated)
+2. sgp(deprecated)
 Protocol: VLESS
-UUID: f35ebcb4-13e8-4a53-94db-4d4023f62287
-Path: /cc08d30ccd/
+UUID: 17580776-3ea0-4b25-83f5-7f54267d86d8
+Path: /dc4599b21c3fa58/
 
 2. ovb(deprecated)
 Protocol: VLESS
