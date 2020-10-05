@@ -31,7 +31,11 @@ Domain: mm.cdn2020.pp.ua
 IP:125.90.93.103 --> 1.1.1.89(universal)
 Port:10021
 
-2.
+3.
 Domain: zj.cdn2020.pp.ua
 IP:121.10.139.200 --> 1.1.1.111(universal)
-Port:10081
+Port:10081 & 10157（白嫖！）
+
+4.
+Domain: sz.cdn2020.pp.ua
+Port:10253（白嫖！） & 10261（白嫖！）
